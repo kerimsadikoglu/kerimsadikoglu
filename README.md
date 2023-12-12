@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerim SADIKOĞLU</h1>
 <h3 align="center">Flutter && Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerimsadikoglu" alt="kerimsadikoglu" /></a> </p>
-
 - 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **Unity, .NET**
