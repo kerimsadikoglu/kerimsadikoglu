@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim SADIKOĞLU</h1>
-<h3 align="center">Flutter && Game Developer</h3>
+<h3 align="center">Flutter && Software Developer</h3>
 
 - 🔭 I’m currently working on **Deep Learning**
 
