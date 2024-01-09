@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **Unity, .NET**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **Flutter, Python, Unity**
 
