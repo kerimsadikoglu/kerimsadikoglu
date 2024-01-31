@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kerim SADIKOĞLU</h1>
 <h3 align="center">Flutter && Software Developer</h3>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Mobile Programming**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET, Kotlin**
 
 - 💬 Ask me about **Flutter, Python, Unity**
 
